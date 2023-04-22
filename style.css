@@ -1,0 +1,24 @@
+body{
+    background-image: url(https://images.unsplash.com/photo-1681105774674-734c656073fb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+form{
+    background-color:rgb(228, 211, 211);
+    width: 500px;
+    padding: 40px; 
+    margin: auto;
+
+}
+.text-h1{
+    font-size: xx-large;
+    color: black;
+    text-align: center;
+}
+label{
+    font-size: larger;
+}
+.input-container{
+    width: 70%;
+}
